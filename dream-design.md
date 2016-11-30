@@ -3,7 +3,7 @@ Copy this file to a new one called _dream-design.md_. Populate the sections as i
 
 #RESIZE THE IMAGES#
 
-![Start Screen Mockup](/images/dd_start-screen.png){:height="200px"}
+![Start Screen Mockup](/images/dd_start-screen.png)
 ![Display page Mockup](/images/dd_summary.png)
 
 ## Application Description

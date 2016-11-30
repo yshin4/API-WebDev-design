@@ -1,10 +1,18 @@
 # Dream Design Document Template
 Copy this file to a new one called _dream-design.md_. Populate the sections as indicated. Illustrate your ideas as needed, with diagrams, screen mockups, etc. Don’t forget to cite references—this is still a piece of formal writing.
 
+![Start Screen Mockup](/images/dd_start-screen.png)
+![Display page Mockup](/images/dd_summary.png)
+
+First Header |
+------------ |
+Content from cell 1 |
+Content in the first column |
+
 ## Application Description
 > A description of the application for which you have created the design, focusing on any particular usability issues that you’d like to address. There is no restriction on the platform of the application; you can make it whatever you want it to be.
 
-This app is a mobile app and can be used by both touch and voice control. It uses the Yahoo Weather API and has additional features that the user might want after being informed the weather description they were looking for. The program can be triggered by Siri or other voice recognition systems imbedded in user's device. Some of the example keywords or triggers would be 'Open Yahoo Weathers', 'Tell me today's Weather', 'How cold is it today', or 'Is San Diego hot?'.
+This app is a mobile app and can be used by both touch and voice control. It uses the Yahoo Weather API and has additional features that the user might want after being informed about the weather description they were looking for. The program can be triggered by Siri or other voice recognition systems imbedded in user's device. Some of the example keywords or triggers would be 'Open Yahoo Weathers', 'Tell me today's Weather', 'How cold is it today', or 'Is San Diego hot?'.
 
 Then the app opens up on the device and it would look like the mockup image of the starting page(left). The layered circles in the center will vibrate or move as it answers user's question. If the user clicks the before button on the start page, he or she can make the app to repeat what it said before. Likewise, if the next button is pressed after one or more before button is pressed it informs the user about the information in forward-history. For the users using the voice control, they can just say repeat or sentences similar to that and the app would repeat itself. It will also display what it said in text on the bottom for user's who are not using sound or people with disabilities regarding hearing.
 
@@ -18,11 +26,11 @@ The user also has access to additional information related to weather beyond tem
 ### Web Service(s) Used
 > Briefly list and describe the web service(s) that will support the functionality of your application. Don’t assume that the reader knows about the service(s) beforehand. Describe the functionality you intend to use, and list the API calls that will support your dream design. Feel free to provide web links to relevant online documentation.
 
-The web services used to support my application are the Yahoo Weather API and the Google Maps API. Yahoo Weather API gave me access to various information that forms the bases of my app. Such information may include: temperature in different units, wind data, atmosphere(humidity, visibility, and pressure), sunset and sunrise times, longitude and latitude and much more. More data that can be accessed through this API and how you can call it is described in the yahoo documentation which is linked below. Google Map API is a side function that allows the user to see pictures of the current weather for whichever location he or she searched. Details about Google Map API can be found in the link below as well.
+The web services used to support my application are the Yahoo Weather API and the Google Maps API. Yahoo Weather API gave me access to various information that forms the bases of my app. Such information may include: temperature in different units, wind data, atmosphere(humidity, visibility, and pressure), sunset and sunrise times, longitude and latitude and much more. More data that can be accessed through this API and how you can call it is described in the yahoo documentation which is linked below. Google Map API is a side function that allows the user to see pictures of the current weather for whichever location he or she searched. Details of Google Map API can be found in the link below as well.
 
-https://developer.yahoo.com/weather/
-https://developer.yahoo.com/weather/documentation.html
-https://developers.google.com/maps/web-services/
+* [Yahoo Weather API](https://developer.yahoo.com/weather/)
+* [Yahoo Weather API Documentation](https://developer.yahoo.com/weather/documentation.html)
+* [Google Map API](https://developers.google.com/maps/web-services/)
 
 ## Top-Level Design/Layout
 > Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design.

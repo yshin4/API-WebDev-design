@@ -27,17 +27,17 @@
 #Annotated mockup#
 >The start page contains a circle that changes its size as it spits out verbalized texts so it looks like it is talking. It has five icons that can be tapped below: left arrow, four squares, map, shirt, and right arrow. The arrow keys can be used for going back or ahead a step just like how you can go back and forth when using a browser. This is so that the users don't have to repeat the same action to get the information they already got earlier. The four squares are usually used for gallery in many devices, and the icon itself seems remind the users of divided sections. This is the display button for application, where the user can see the summary of the current week's weather in a list. Clicking the map button displays real-time pictures and a street-view of the location at current day and time. The shirt icon takes the user to a browser on user's device, searching up outfits and showing images of it, depending on the weather.
 
-> For the display page where it has a summary of the week's weather, the user can click on one of the sections or the days in the list to see more information. This new page will contain detailed data about the day the user clicked including wind, atmosphere, temperature by time, and etc. The user can scroll down to see more information here as well.
+> For the display page where it has a summary of the week's weather, a search bar is located at the top of the screen. This is for setting location and the user may click the search bar to write locations themselves or click on the triangle to see locations nearby. The user can click on one of the sections or the days in the list to see more information. This new page will contain detailed data about the day the user clicked including wind, atmosphere, temperature by time, and etc. The user can scroll down to see more information here as well.
 
 ## Usage Scenarios
 > A usage scenario is a mini-story that highlights how a user would accomplish a certain task in your dream design. Provide at least two. Make sure to provide the following information per scenario: (a) the task that the user will perform, (b) the relevant user interface elements for performing this task, and (c) a brief narrative on how the user would perform this task with those user interface elements. Mock up, animate, or annotate your scenarios liberally.
 
-### Asking for an outfit for today's weather
+### Asking for today's outfit
 > The user is (a) looking up an outfit appropriate for today's weather and she will use (b) the voice control to (c) call the Yahoo Weather app and trigger it to search 'cold day outfit' on the browser.
 
 > The user wakes up a little late in the morning and she does not have time to worry about what to wear today. She simply activates her device by saying 'Ok Siri' or 'Ok Yahoo Weather' and asks what she wants to know: 'what should I wear today?'. While doing this, she can multitask and make her breakfast or pack her bag. This saves time and makes her morning routine efficient. The benefits of this is that she can work on something else instead of looking things up herself and waiting for it to load. Moreover, she gets to know what outfit would be the most appropriate for today's weather, since the search results will be based on that day's weather in short text (ex. partly cloudy, sunny, possible rain). In addition, the interface for this is simple as it can be, to just ask the app for the information needed. If done by hand manually instead of using the voice control, one can click the shirt icon and it will give he or she recommended clothes for that day by default.
 
-### Looking up sunset time on the beach
+### Looking up sunset time at the beach
 >The user wants to know (a) the sunset time at a beach in a foreign country. He uses (b) the display icon, location search bar, and today's button in order to (c) select the day (today) and location (beach) and to see the details (sunset) of that day's weather. 
 
 > The user is on a family trip in a foreign country and wants to spend time on the beach that afternoon. He does not know what the whether is like in that country, nor when the sunset is. He opens Yahoo Weather app, and clicks on the display button (four square icon). Because he is looking for a more specific data than just the temperature of the day, he clicks on the first box, or a section with today's day and date. It has the whole week's weather summary with current day's information on the very top, so it will be easy for the user to find the box or button for today. When the user clicks today's div, which is the first from the top, he can get detailed information about today. He sets his location to the beach he wants to visit by typing the name of it on the search bar and scrolls down for the sunset time.
@@ -47,6 +47,18 @@
 
 ## Usability Metric Forecast
 > If implemented then tested, what would be your design’s strong metrics? Weak metrics? Explain your choices.
+
+> When this app is in use, efficiency, errors, and satisfaction would be its strong metrics. This is because for those users who want to have access to the weather while they are working on something else, they can use the voice recognition to multitask and continue working on their task. Moreover, it only takes a click or two to find about this week's weather, which is quite efficient. This is an important factor due to the fact that the users most likely does not want to spend time on looking up weather information everyday. 
+
+> It is hard to make a mistake since the icons are very distinct and represents its functionality pretty well. The buttons in the app are not small so the users are unlikely to make clicking/pressing errors. This counts in as part of efficiency as well since making it easier to not make errors means decreased time to access the information wanted. 
+
+> The voice control system and additional features it has: outfit search function and picture of the outdoor scene contributes greatly to user's satisfaction. Through these features the user can get what they want instead of having to take an extra step themselves, or googling and searching informations they wanted after finding out about the weather.
+
+> One of the weaker metrics is learnability, since the icons (display, map, outfit) can be unclear to the first time users. However, this is easy for users to adjust to once they try each functionality once or twice. Nothing is complicated so it is not difficult for the users to find out what each functions do.
+
+> The solution for learnability ties into memorability, which is also one of weak metrics of the app, for the reason that the users would have to know what each icon does to acquire the power to use the app efficiently. However, there are at most five functions depending on how the user wants to use the app so memorizing would not be a big problem.
+
+>Overall, the Yahoo Weather app has to be used once or twice to see the app's full coverage of features. The user might have to remember what each icon does, but once one gets used to the app it makes their task more efficient and convinient. 
 
 ## References
 > Cite formally, as you would with any other research paper.

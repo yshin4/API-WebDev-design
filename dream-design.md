@@ -1,4 +1,4 @@
-# Dream Design Document Template
+# Dream Design Document - Yahoo Weather App
 ![Start Screen Mockup](/images/dd_start-screen.png)
 ![Display page Mockup](/images/dd_summary.png)
 
@@ -15,7 +15,7 @@
 
 
 ### Web Service(s) Used
->The web services used to support my application are the Yahoo Weather API and the Google Maps API. Yahoo Weather API gave me access to various information that forms the bases of my app. Such information may include: temperature in different units, wind data, atmosphere(humidity, visibility, and pressure), sunset and sunrise times, longitude and latitude and much more. More data that can be accessed through this API and how you can call it is described in the yahoo documentation which is linked below. Google Map API is a side function that allows the user to see pictures of the current weather for whichever location he or she searched. Details of Google Map API can be found in the link below as well.
+>The web services used to support my application are the Yahoo Weather API and the Google Maps API. Yahoo Weather API gave me access to various information that forms the bases of my app. Such information may include: temperature in different units, wind data, atmosphere(humidity, visibility, and pressure), sunset and sunrise times, longitude and latitude and much more. In addition, Yahoo Weather API also provides current date and time when the weather is searched. More data that can be accessed through this API and how you can call it is described in the yahoo documentation which is linked below. Google Map API is a side function that allows the user to see pictures of the current weather for whichever location he or she searched. Details of Google Map API can be found in the link below as well.
 
 * [Yahoo Weather API](https://developer.yahoo.com/weather/)
 * [Yahoo Weather API Documentation](https://developer.yahoo.com/weather/documentation.html)
@@ -33,10 +33,14 @@
 > A usage scenario is a mini-story that highlights how a user would accomplish a certain task in your dream design. Provide at least two. Make sure to provide the following information per scenario: (a) the task that the user will perform, (b) the relevant user interface elements for performing this task, and (c) a brief narrative on how the user would perform this task with those user interface elements. Mock up, animate, or annotate your scenarios liberally.
 
 ### Asking for an outfit for today's weather
+> The user is (a) looking up an outfit appropriate for today's weather and she will use (b) the voice control to (c) call the Yahoo Weather app and trigger it to search 'cold day outfit' on the browser.
+
 > The user wakes up a little late in the morning and she does not have time to worry about what to wear today. She simply activates her device by saying 'Ok Siri' or 'Ok Yahoo Weather' and asks what she wants to know: 'what should I wear today?'. While doing this, she can multitask and make her breakfast or pack her bag. This saves time and makes her morning routine efficient. The benefits of this is that she can work on something else instead of looking things up herself and waiting for it to load. Moreover, she gets to know what outfit would be the most appropriate for today's weather, since the search results will be based on that day's weather in short text (ex. partly cloudy, sunny, possible rain). In addition, the interface for this is simple as it can be, to just ask the app for the information needed. If done by hand manually instead of using the voice control, one can click the shirt icon and it will give he or she recommended clothes for that day by default.
 
-### Looking up today's sunset time
-> The user is on a family trip at a foreign country and wants to spend time at the beach that afternoon. He does not know what the whether is like in that country, nor when the sunset is. He opens Yahoo Weather app, and clicks on the display button (four square icon). Because he is looking for a more specific data than just the temperature of the day, he clicks on the first box, or a section with today's day and date. It has the whole week's weather summary with current day's information on the very top, so it will be easy for the user to find the box or button for today. When the user clicks today's div, which is the first from the top, he can get detailed information about today. He sets his location to the beach he wants to visit by typing the name of it on the search bar and scrolls down for the sunset time.
+### Looking up sunset time on the beach
+>The user wants to know (a) the sunset time at a beach in a foreign country. He uses (b) the display icon, location search bar, and today's button in order to (c) select the day (today) and location (beach) and to see the details (sunset) of that day's weather. 
+
+> The user is on a family trip in a foreign country and wants to spend time on the beach that afternoon. He does not know what the whether is like in that country, nor when the sunset is. He opens Yahoo Weather app, and clicks on the display button (four square icon). Because he is looking for a more specific data than just the temperature of the day, he clicks on the first box, or a section with today's day and date. It has the whole week's weather summary with current day's information on the very top, so it will be easy for the user to find the box or button for today. When the user clicks today's div, which is the first from the top, he can get detailed information about today. He sets his location to the beach he wants to visit by typing the name of it on the search bar and scrolls down for the sunset time.
 
 ## Design Rationale
 > State why your design is the way it is: relevant priorities, mental models, interaction design concepts, guidelines, principles, theories, etc. Cite relevant references as needed.

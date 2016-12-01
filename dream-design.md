@@ -1,8 +1,4 @@
 # Dream Design Document Template
-Copy this file to a new one called _dream-design.md_. Populate the sections as indicated. Illustrate your ideas as needed, with diagrams, screen mockups, etc. Don’t forget to cite references—this is still a piece of formal writing.
-
-#RESIZE THE IMAGES#
-
 ![Start Screen Mockup](/images/dd_start-screen.png)
 ![Display page Mockup](/images/dd_summary.png)
 
@@ -36,8 +32,8 @@ Copy this file to a new one called _dream-design.md_. Populate the sections as i
 ## Usage Scenarios
 > A usage scenario is a mini-story that highlights how a user would accomplish a certain task in your dream design. Provide at least two. Make sure to provide the following information per scenario: (a) the task that the user will perform, (b) the relevant user interface elements for performing this task, and (c) a brief narrative on how the user would perform this task with those user interface elements. Mock up, animate, or annotate your scenarios liberally.
 
-### Usage Scenario 1
-> Replace the title with an actual description of the scenario, e.g., “Adding a Song to a Playlist.”
+### Asking for an outfit for today's weather
+> The user wakes up a little late in the morning and she does not have time to worry about what to wear today. She simply activates her device by saying 'Ok Siri' or 'Ok Yahoo Weather' and asks what she wants to know: 'what should I wear today?'. While doing this, she can multitask and make her breakfast or pack her bag. This saves time and makes her morning routine efficient. The benefits of this is that she can work on something else instead of looking things up herself and waiting for it to load. Moreover, she gets to know what outfit would be the most appropriate for today's weather, since the search results will be based on that day's weather in short text (ex. partly cloudy, sunny, possible rain). In addition, the interface for this is simple as it can be, to just ask the app for the information needed. If done by hand manually instead of using the voice control, one can click the shirt icon and it will give he or she recommended clothes for that day by default.
 
 ### Usage Scenario 2
 > Ditto with the title.

@@ -35,7 +35,7 @@
 
 > The user wakes up a little late in the morning and she does not have time to worry about what to wear today. She simply activates her device by saying 'Ok Siri' or 'Ok Yahoo Weather' and asks what she wants to know: 'what should I wear today?'. While doing this, she can multitask and make her breakfast or pack her bag. This saves time and makes her morning routine efficient. The benefits of this is that she can work on something else instead of looking things up herself and waiting for it to load. Moreover, she gets to know what outfit would be the most appropriate for today's weather, since the search results will be based on that day's weather in short text (ex. partly cloudy, sunny, possible rain). In addition, the interface for this is simple as it can be, to just ask the app for the information needed. If done by hand manually instead of using the voice control, one can click the shirt icon and it will give he or she recommended clothes for that day by default.
 
-### Looking up sunset time at the beach
+v### Looking up sunset time at the beach
 >The user wants to know (a) the sunset time at a beach in a foreign country. He uses (b) the display icon, location search bar, and today's button in order to (c) select the day (today) and location (beach) and to see the details (sunset) of that day's weather.
 
 > The user is on a family trip in a foreign country and wants to spend time on the beach that afternoon. He does not know what the whether is like in that country, nor when the sunset is. He opens Yahoo Weather app, and clicks on the display button (four square icon). Because he is looking for a more specific data than just the temperature of the day, he clicks on the first box, or a section with today's day and date. It has the whole week's weather summary with current day's information on the very top, so it will be easy for the user to find the box or button for today. When the user clicks today's div, which is the first from the top, he can get detailed information about today. He sets his location to the beach he wants to visit by typing the name of it on the search bar and scrolls down for the sunset time.
@@ -57,7 +57,7 @@
 >Overall, the Yahoo Weather app has to be used once or twice to see the app's full coverage of features. The user might have to remember what each icon does, but once he or she gets used to the app, it makes their task more efficient and convenient conclusively.
 
 ## References
-> *Card, S. K., Newell, A., & Moran, T. P. (1983). The psychology of human-computer interaction.
+> * Card, S. K., Newell, A., & Moran, T. P. (1983). The psychology of human-computer interaction.
 * Card, S. K., Moran, T. P., & Newell, A. (1980). The keystroke-level model for user performance time with interactive systems. Communications of the ACM, 23(7), 396-410.
 * "GUIDELINES FOR DESIGNING USER INTERFACE SOFTWARE : Introduction." GUIDELINES FOR DESIGNING USER INTERFACE SOFTWARE : Introduction. N.p., n.d. Web. 02 Dec. 2016.  
 * Shneiderman, Ben. Designing the User Interface: Strategies for Effective Human-computer-interaction. Reading, Mass: Addison Wesley Longman, 1998. Print.

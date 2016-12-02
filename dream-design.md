@@ -57,8 +57,8 @@
 >Overall, the Yahoo Weather app has to be used once or twice to see the app's full coverage of features. The user might have to remember what each icon does, but once he or she gets used to the app, it makes their task more efficient and convenient conclusively.
 
 ## References
->Card, S. K., Newell, A., & Moran, T. P. (1983). The psychology of human-computer interaction.
->Card, S. K., Moran, T. P., & Newell, A. (1980). The keystroke-level model for user performance time with interactive systems. Communications of the ACM, 23(7), 396-410.
->"GUIDELINES FOR DESIGNING USER INTERFACE SOFTWARE : Introduction." GUIDELINES FOR DESIGNING USER INTERFACE SOFTWARE : Introduction. N.p., n.d. Web. 02 Dec. 2016.  
->Shneiderman, Ben. Designing the User Interface: Strategies for Effective Human-computer-interaction. Reading, Mass: Addison Wesley Longman, 1998. Print.
->"W3C." Accessibility - W3C. N.p., n.d. Web. 02 Dec. 2016.
+> *Card, S. K., Newell, A., & Moran, T. P. (1983). The psychology of human-computer interaction.
+* Card, S. K., Moran, T. P., & Newell, A. (1980). The keystroke-level model for user performance time with interactive systems. Communications of the ACM, 23(7), 396-410.
+* "GUIDELINES FOR DESIGNING USER INTERFACE SOFTWARE : Introduction." GUIDELINES FOR DESIGNING USER INTERFACE SOFTWARE : Introduction. N.p., n.d. Web. 02 Dec. 2016.  
+* Shneiderman, Ben. Designing the User Interface: Strategies for Effective Human-computer-interaction. Reading, Mass: Addison Wesley Longman, 1998. Print.
+* "W3C." Accessibility - W3C. N.p., n.d. Web. 02 Dec. 2016.

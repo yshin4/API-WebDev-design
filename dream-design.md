@@ -21,7 +21,8 @@
 * [Google Map API](https://developers.google.com/maps/web-services/)
 
 ## Top-Level Design/Layout
-> Provide an overview of your user interface. Annotated mockups work very well here, with accompanying text describing, at a high level, the various components of your design.
+> ![Start Screen Mockup](/images/dd_outfit.png)
+![Display page Mockup](/images/dd_map.png)
 
 #Annotated mockup#
 >The start page contains a circle that changes its size as it spits out verbalized texts so it looks like it is talking. It has five icons that can be tapped below: left arrow, four squares, map, shirt, and right arrow. The arrow keys can be used for going back or ahead a step just like how you can go back and forth when using a browser. This is so that the users don't have to repeat the same action to get the information they already got earlier. The four squares are usually used for gallery in many devices, and the icon itself seems remind the users of divided sections. This is the display button for application, where the user can see the summary of the current week's weather in a list. Clicking the map button displays real-time pictures and a street-view of the location at current day and time. The shirt icon takes the user to a browser on user's device, searching up outfits and showing images of it, depending on the weather.

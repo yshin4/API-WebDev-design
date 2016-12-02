@@ -3,7 +3,7 @@
 ![Display page Mockup](/images/dd_summary.png)
 
 ## Application Description
->This app is a mobile app and can be used by both touch and voice control. It uses Yahoo Weather API and has additional features that the user might want to use after being informed about the weather description they were looking for. The program can be triggered by Siri or other voice recognition systems imbedded in user's device. Some of the example keywords or triggers would be 'Open Yahoo Weathers', 'Tell me today's Weather', 'How cold is it today', or 'Is San Diego hot?'.
+>This app is a mobile app that can be used by both touch and voice control. It uses Yahoo Weather API and has additional features that the user might want to use after being informed about the weather description they were looking for. The program can be triggered by Siri or other voice recognition systems imbedded in user's device. Some of the example keywords or triggers would be 'Open Yahoo Weathers', 'Tell me today's Weather', 'How cold is it today', or 'Is San Diego hot?'.
 
 >Then the app opens up on the device and it would look like the mockup of the starting page(left). The layered circles in the center will vibrate or move as it answers user's question. If the user clicks the before button on the start page, he or she can make the app to repeat what it said before. Likewise, if the next button is pressed after one or more before button is pressed it informs the user about the information in forward-history. Users who are using voice control can simply say repeat or triggers similar to that and the app would repeat itself. It will also display what it said in text on the bottom for user's who are not using sound or people with disabilities regarding hearing.
 

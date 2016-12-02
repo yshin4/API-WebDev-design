@@ -16,7 +16,7 @@
 ### Web Service(s) Used
 >The web services used to support my application are the Yahoo Weather API and the Google Maps API. Yahoo Weather API gave me access to various information that forms the bases of my app. Such information may include: temperature in different units, wind data, atmosphere(humidity, visibility, and pressure), sunset and sunrise times, longitude and latitude and much more. In addition, Yahoo Weather API also provides current date and time when the weather is searched. More data that can be accessed through this API and how you can call it is described in the yahoo documentation which is linked below. Google Map API is a side function that allows the user to see pictures of the current weather for whichever location he or she searched. Details of Google Map API can be found in the link below as well.
 
-* [Yahoo Weather API](https://developer.yahoo.com/weather/)
+>* [Yahoo Weather API](https://developer.yahoo.com/weather/)
 * [Yahoo Weather API Documentation](https://developer.yahoo.com/weather/documentation.html)
 * [Google Map API](https://developers.google.com/maps/web-services/)
 
